@@ -1,0 +1,80 @@
+#first{
+    background-color: #00337C;
+    color: #fff;
+}
+.car{
+    transform: rotate(-2deg);
+    position: relative;
+    right: 10%;
+}
+h1{
+    line-height: 1.5;
+}
+.txt{
+    text-align: center;
+    padding: 5%;
+    line-height: 0.5;
+}
+.pic{
+    color: #1C82AD;
+    margin-bottom: 1rem;
+}
+.pic:hover{
+    color: #00337C;
+}
+#test{
+    padding: 7% 15%;
+    margin-bottom: 14px;
+    text-align: center;
+    background-color: #1C82AD;
+    color: #fff;
+}
+#features{
+    padding: 7% 15%;
+    text-align: center;
+    color:grey;
+
+}
+.aaa{
+    width: 15%;
+    padding: 70px;
+    margin: 10px;
+}
+#pricing{
+    background-color: ;
+    padding: 7% 15%;
+    text-align: center;
+}
+.hh{
+    font-family:cursive;
+    text-align: center;
+    padding top: 3px;
+}
+.a{
+    width: 119px;
+    padding: 20px;
+}
+#card2{
+    margin-top: 14px;
+    margin-left: 10px;
+}
+#card{
+    margin-left: 10px;
+}
+#pricing{
+    background-color:#1C82AD;
+
+}
+#footer{
+    padding: 7%;
+    text-align: center;
+}
+.cc{
+    margin: 20px 10px;
+}
+@media(max-width:1000px){
+    .car{
+        width: 100%;
+    }
+
+}
